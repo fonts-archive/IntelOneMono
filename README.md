@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Intel One Mono';
@@ -12,7 +12,7 @@ font-family: 'Intel One Mono';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/IntelOneMono/IntelOneMono.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/IntelOneMono/IntelOneMono.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 /* normal */
@@ -114,4 +114,23 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/IntelOneMono/IntelOneMonoItalic-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/IntelOneMono/IntelOneMonoItalic-Bold.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+라이센스 본문
+Copyright (c) 2023 Intel Corp. with Reserved Font Name "Intel One Mono", "IntelOne Mono" 
+ 
+This Font Software is licensed under the SIL Open Font License, Version 1.1. 
+ 
+This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL 
+ 
+----------------------------------------------------------- 
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007 
+----------------------------------------------------------- 
+ 
+라이선스 전문 보기
 ```
